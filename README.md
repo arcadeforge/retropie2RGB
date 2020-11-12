@@ -10,7 +10,7 @@ This is an RetroPie image for pi2jamma using the Raspberry PI 3b+ sofware.  It i
 ## Initial Setup-up:
 1. Dowloand image
 2. Insert SD card
-3. Flash OS iamge to SD card: https://www.balena.io/etcher/
+3. Flash OS image to SD card: https://www.balena.io/etcher/
 
 ## RetroPie Settings:
 https://retropie.org.uk/
