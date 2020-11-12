@@ -4,7 +4,7 @@ This is an RetroPie image for pi2jamma using the Raspberry PI 3b+ sofware.  It i
 
 ## Hardware:
 - pi2jamma: http://arcadeforge.net/
-- Raspberry Pi 3b+: https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/?resellerType=home
+- Raspberry Pi 3b+: https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/
 - 32gb (or higher) microSD card: https://www.amazon.com/SanDisk-Ultra-microSDXC-Memory-Adapter/dp/B073JWXGNT/ref=sr_1_4?dchild=1&keywords=micro%2Bsd%2Bcard%2B32&qid=1605144503&sr=8-4&th=1
 
 ## Initial Setup-up:
