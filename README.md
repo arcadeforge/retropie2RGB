@@ -12,7 +12,7 @@ Themes and overlays are installed from [Phil's Doodles](https://github.com/lipeb
 ## Initial Setup-up:
 1. Dowloand image
 2. Insert SD card
-3. (Flash OS iamge to SD card)[https://www.balena.io/etcher/]
+3. Flash OS iamge to SD card: https://www.balena.io/etcher/
 
 ## RetroPie Settings:
 https://retropie.org.uk/
