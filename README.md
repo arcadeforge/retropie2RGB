@@ -22,7 +22,7 @@ Troubleshooting:
 
 F4 -> access the command line
 
-nano config.txt
+sudo nano config.txt
 
 #pi2jamma
 #1 Enabled
