@@ -1,8 +1,8 @@
 # retropie2RGB
 
 This is an RetroPie image for pi2jamma using the Raspberry PI 3b+ sofware.  It is a basic image without roms that should work "out-of-the-box" with minimal adjustments.  
-The image is retropie with retropieRGB setup already completed [Thank you ArcadeForge](https://github.com/arcadeforge/RetroPieRGB).
-Themes and overlays are installed from [Phil's Doodles](https://github.com/lipebello/es-theme-retrorama)
+The image is retropie with retropieRGB setup already completed. [Thank you ArcadeForge](https://github.com/arcadeforge/RetroPieRGB).
+Themes and overlays are installed from [Phil's Doodles](https://github.com/lipebello/es-theme-retrorama).
 
 Hardware:
 - pi2jamma: http://arcadeforge.net/
