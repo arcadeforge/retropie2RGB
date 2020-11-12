@@ -25,10 +25,10 @@ F4 -> access the command line
 
 sudo nano config.txt
 
-# pi2jamma
+'''# pi2jamma
 # 1=Enabled
 # 0=Disabled
-pi2jamma=1   # make sure this line is set to 1
+pi2jamma=1   # make sure this line is set to 1'''
 
 
 Credit:  https://www.facebook.com/groups/1649021265123737
