@@ -32,4 +32,4 @@ sudo nano config.txt
 pi2jamma=1   # make sure this line is set to 1 instead of 0
 ```
 
-Credit:  https://www.facebook.com/groups/1649021265123737
+**Credit:  https://www.facebook.com/groups/1649021265123737
